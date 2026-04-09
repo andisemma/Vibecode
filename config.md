@@ -18,7 +18,8 @@ json
 }
 ```
 
-
+```
+json
 {
     "env": {
         "ANTHROPIC_BASE_URL": "https://api.minimax.io/anthropic",
@@ -32,3 +33,4 @@ json
         "ANTHROPIC_DEFAULT_HAIKU_MODEL": "MiniMax-M2.7"
     }
 }
+```
